@@ -14,7 +14,7 @@ Wox is free for use and open-sourced at Github, [Try it Now!](http://www.wox.one
 
 ### Screenshots
 
-![preview](.\Images\preview.gif)
+![preview](./Images/preview.gif)
 
 ### Usage
 
