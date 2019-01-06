@@ -32,7 +32,7 @@ class LOGIN0(Wox):
             results.append({
                 "Title": "老板上机",
                 "SubTitle": "使用\"账号(空格)密码\"形式",
-                "IcoPath":"Images/app.ico",
+                "IcoPath":"Images/app.png",
                 "ContextData": "ctxData",
                 "JsonRPCAction":{
                     "method":"login",
@@ -43,7 +43,7 @@ class LOGIN0(Wox):
         results.append({
             "Title": "董事长上机",
             "SubTitle": "使用"+default_Username+"直接登录",
-            "IcoPath":"Images/app.ico",
+            "IcoPath":"Images/app.png",
             "ContextData": "ctxData",
             "JsonRPCAction": {
                 "method":"login",
@@ -58,7 +58,7 @@ class LOGIN0(Wox):
         results.append({
             "Title": "Context menu entry",
             "SubTitle": "Data: {}".format(data),
-            "IcoPath":"Images/app.ico"
+            "IcoPath":"Images/app.png"
         })
         return results
 
