@@ -1,0 +1,12 @@
+{
+    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword":"202",
+    "Name":"USTB Login",
+    "Description":"login in 90 s",
+    "Author":"kitekii",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://kitekii.pw",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
