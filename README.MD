@@ -1,5 +1,7 @@
 ## Ustb Login Plugin for Wox
 
+![wox](https://img.shields.io/badge/wox-%5E1.3.0-green.svg) ![wox](https://img.shields.io/badge/python-3-green.svg)
+
 ### What is Wox
 
 A full-featured launcher, access programs and web contents as you type. Be more productive ever since.
